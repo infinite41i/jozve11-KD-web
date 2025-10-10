@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'جزوه درس تولید کننده و توسعه دهنده پایگاه های اینترنتی'
+copyright = 'توحیدی - 1404'
+author = 'علی توحیدی'
 
 release = '0.1'
 version = '0.1.0'

@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+جزوه تولید کننده و توسعه دهنده پایگاه داده - پایه یازدهم
+============================================================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -11,12 +11,12 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   این پروژه به صورت مداوم در حال به روز رسانی و تغییر است.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   آشنایی با استاندارد های درس <standards>
+   مقدمات و کلیات طراحی وب سایت <generals>
