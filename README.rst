@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
-=======================================
+جزوه تولید کننده و توسعه دهنده پایگاه های اینترنتی - پایه یازدهم
+============================================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+جزوه درسی پایه یازدهم کامپیوتر شاخه کاردانش
 
-Read the tutorial here:
+رشته تولید کننده و توسعه دهنده پایگاه های اینترنتی
 
-https://docs.readthedocs.io/en/stable/tutorial/
+گردآوری: علی توحیدی - سال ۱۴۰۴
