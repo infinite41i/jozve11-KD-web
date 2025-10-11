@@ -30,6 +30,15 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'shibuya'
+html_sidebars = {
+  "**": []
+}
+html_theme_path = {
+  "**": []
+}
+html_theme_config = {
+  "**": []
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
