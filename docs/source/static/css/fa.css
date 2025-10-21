@@ -6,3 +6,7 @@ html, body{
     right: unset;
     left: 0;
 }
+
+.notranslate {
+    direction: ltr;
+}
