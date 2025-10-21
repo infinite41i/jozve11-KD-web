@@ -1,0 +1,8 @@
+html, body{
+    direction: rtl;
+}
+
+#head-nav > div > form > kbd {
+    right: unset;
+    left: 0;
+}
