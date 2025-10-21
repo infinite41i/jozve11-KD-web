@@ -33,5 +33,14 @@ html_theme = 'shibuya'
 pygments_style = "sphinx"
 pygments_dark_style = "native"
 
+# These folders are copied to the documentation's HTML output
+html_static_path = ['_static']
+
+# These paths are either relative to html_static_path
+# or fully qualified paths (eg. https://...)
+html_css_files = [
+    'css/fa.css',
+]
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
