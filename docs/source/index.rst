@@ -11,17 +11,17 @@ Contents
 
 .. toctree::
 
-   آشنایی با استاندارد های درس <a.standards>
-   مقدمات و کلیات طراحی وب سایت <b.generals>
-   طراحی صفحات وب با HTML <c.html>
-   کار با css <d.css>
-   مدیریت محتوا <e.content-management>
-   مدیریت وب سایت <f.website-management>
-   تصحیح عملکرد صفحات <g.debugging>
-   طراحی و ویرایش تصاویر پیکسلی <h.photoshop>
-   کار با نرم‌افزار dreamweaver <i.dreamweaver>
-   صفحات تعاملی به کمک javascript و jQuery <j.JS-JQuery>
-   قالب بندی سریع صفحات به کمک bootstrap <k.bootstrap>
-   کار با webhosting <l.webhosting>
-   انجام امور تجارت الکترونیک <m.e-commerce>
-   راهبری طرح کسب و کار برای طراحی وب <n.business-plan>
+   contents/a.generals
+   contents/b.html
+   contents/c.css
+   contents/d.content-management
+   contents/e.website-management
+   contents/f.debugging
+   contents/g.photoshop
+   contents/h.dreamweaver
+   contents/i.JS-JQuery
+   contents/j.bootstrap
+   contents/k.webhosting
+   contents/l.e-commerce
+   contents/m.business-plan
+   contents/z.standards
