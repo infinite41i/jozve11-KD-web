@@ -1,3 +1,6 @@
 ul, ol{
     margin-right: 2rem;
 }
+.pre{
+    display: inline-block;
+}
