@@ -29,6 +29,10 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
+html_theme_options = {
+    'github_url': 'https://github.com/infinite41i/jozve11-KD-web',
+    "globaltoc_expand_depth": 2,
+}
 html_theme = 'shibuya'
 pygments_style = "sphinx"
 pygments_dark_style = "native"
@@ -40,6 +44,7 @@ html_static_path = ['static']
 # or fully qualified paths (eg. https://...)
 html_css_files = [
     'css/fa.css',
+    'css/custom.css'
 ]
 
 # -- Options for EPUB output
