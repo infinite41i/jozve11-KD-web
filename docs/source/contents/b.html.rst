@@ -22,3 +22,6 @@ HTML
     b.html/b.06.lists
     b.html/b.07.tables
     b.html/b.08.formatting
+    b.html/b.09.div_span
+    b.html/b.10.forms
+    b.html/b.11.media

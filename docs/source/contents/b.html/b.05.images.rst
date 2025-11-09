@@ -5,7 +5,12 @@
 
 .. code-block:: html
 
-    <img src="Penguins.jpg">
+    <img src="image.jpg">
+
+.. admonition:: مثال
+
+    .. image:: /images/sample-img.jpg
+    
 
 چند ویژگی عنصر تصویر
 ---------------------
