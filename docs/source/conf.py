@@ -32,6 +32,7 @@ templates_path = ['_templates']
 html_theme_options = {
     'github_url': 'https://github.com/infinite41i/jozve11-KD-web',
     "globaltoc_expand_depth": 2,
+    "show_ai_links": False,
 }
 html_theme = 'shibuya'
 pygments_style = "sphinx"
