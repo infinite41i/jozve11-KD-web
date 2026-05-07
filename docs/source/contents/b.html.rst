@@ -13,15 +13,7 @@ HTML
 آشنا می‌شوید و عناصر و ویژگی‌های آن را می‌آموزید.
 
 .. toctree::
+    :caption: سرفصل‌ها
+    :glob:
 
-    b.html/b.01.basics
-    b.html/b.02.elements
-    b.html/b.03.attributes
-    b.html/b.04.links
-    b.html/b.05.images
-    b.html/b.06.lists
-    b.html/b.07.tables
-    b.html/b.08.formatting
-    b.html/b.09.div_span
-    b.html/b.10.forms
-    b.html/b.11.media
+    b.html/*

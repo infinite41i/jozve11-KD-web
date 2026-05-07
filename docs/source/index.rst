@@ -15,18 +15,7 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: سرفصل‌ها
+   :glob:
 
-   contents/a.generals
-   contents/b.html
-   contents/c.css
-   contents/d.content-management
-   contents/e.website-management
-   contents/f.debugging
-   contents/g.photoshop
-   contents/h.dreamweaver
-   contents/i.JS-JQuery
-   contents/j.bootstrap
-   contents/k.webhosting
-   contents/l.e-commerce
-   contents/m.business-plan
-   contents/z.standards
+   contents/*

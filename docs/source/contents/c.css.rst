@@ -13,9 +13,7 @@ CSS: لباسی که به وب‌سایت می‌پوشانیم
 در ادامه این فصل، با اصول پایه CSS آشنا می‌شویم و یاد می‌گیریم چگونه با استفاده از آن صفحات وب زیبا و جذاب بسازیم.
 
 .. toctree::
-    c.css/c.01.introduction
-    c.css/c.02.styling_methods
-    c.css/c.03.selectors
-    c.css/c.04.properties
-    c.css/c.05.layout
-    c.css/c.06.combinators
+    :caption: سرفصل‌ها
+    :glob:
+
+    c.css/*

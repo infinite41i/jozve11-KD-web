@@ -8,12 +8,7 @@
 در این فصل با نحوه کار با بوت‌استرپ آشنا خواهیم شد.
 
 .. toctree::
+    :caption: سرفصل‌ها
+    :glob:
 
-    j.bootstrap/j.01.intro
-    j.bootstrap/j.02.installation
-    j.bootstrap/j.03.colors 
-    j.bootstrap/j.04.typography
-    j.bootstrap/j.05.layout
-    j.bootstrap/j.06.grid
-    j.bootstrap/j.07.components
-    j.bootstrap/j.08.cons-pros
+    j.bootstrap/*
