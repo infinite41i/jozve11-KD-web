@@ -7,9 +7,7 @@
 با چالش‌های احتمالی در مسیر طراحی وب‌سایت روبرو شوید.
 
 .. toctree::
+    :caption: سرفصل‌ها
+    :glob:
     
-    a.generals/a.01.web
-    a.generals/a.02.content
-    a.generals/a.03.internet_structure
-    a.generals/a.04.ports
-    a.generals/a.05.webpages
+    a.generals/*
